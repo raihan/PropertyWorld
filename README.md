@@ -7,7 +7,7 @@ Thanks for sending me the assignment.
 For this assignment, I developed the “PropertyWorld” app, which fetches and displays a list of properties using the provided API. Each property item showcases its name, type, address, and an image carousel. Upon selecting a property, the app presents detailed information, including an image carousel, property name, ratings, policies, a description, check-in times, reviews, a map location, and directions to the property.
 
 
-**Inrernal packages dependency structure:**
+** 📦 Inrernal packages dependency structure:**
 
 <img src="https://github.com/user-attachments/assets/6db05bac-c7af-4471-8911-c8af8fb45a79" width="700"/>
 
