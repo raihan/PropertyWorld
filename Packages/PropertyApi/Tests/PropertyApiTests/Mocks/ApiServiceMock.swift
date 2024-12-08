@@ -55,7 +55,7 @@ public extension Property {
 }
 
 public extension PropertyDetails {
-    static let propertyDetails = PropertyDetails(
+    static let mockPropertyDetails = PropertyDetails(
         id: "123",
         name: "STF",
         rating: Rating(

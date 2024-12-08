@@ -13,7 +13,7 @@ import ApiService
 
 struct PropertyDetailsApiTests {
     let apiService = ApiServiceMock()
-    let propertyDetails: PropertyDetails = .propertyDetails
+    let propertyDetails: PropertyDetails = .mockPropertyDetails
 
     @Test
     func fetchPropertyDetailsWhenSucceeds() async throws {
